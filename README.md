@@ -91,7 +91,7 @@
 
 Before running this project, make sure you have the following installed:
 
-- **Node.js** ( v18 or higher ) 📦
+- **Node.js** (v18 or higher) 📦
 - **npm** or **yarn** 📦  
 - **.NET 9.0 SDK** ⚙️
 - **Git** 🔧
